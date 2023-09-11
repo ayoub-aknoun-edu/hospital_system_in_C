@@ -48,4 +48,3 @@ And the same for the other features you can view more on demo video.
 
 ## Demo video
 
-[![Watch the video](resources/cover.png)](resources/demo_vid.mp4)
