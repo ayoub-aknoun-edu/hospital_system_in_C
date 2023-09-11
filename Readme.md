@@ -48,3 +48,7 @@ And the same for the other features you can view more on demo video.
 
 ## Demo video
 
+
+
+https://github.com/ayoub-aknoun-edu/hospital_system_in_C/assets/81885138/c2a6bb7e-1761-4b95-866c-f98ea9678ac9
+
