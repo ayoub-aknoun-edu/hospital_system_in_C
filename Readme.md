@@ -11,7 +11,7 @@ we use the concept of linked list and files handling in addition to the concept 
 2. Open the project in your favorite IDE & build/run the project
 3. Or you can run the executable file  `GESTION_AKBABEL.exe` 
 4. You will be asked to enter the password, the password is `narutoo`
-5. Enjoy
+5. Enjoy 
 
 ## Features
 
@@ -54,7 +54,6 @@ https://github.com/ayoub-aknoun-edu/hospital_system_in_C/assets/81885138/c2a6bb7
 
 ## Contributors
 
-<a href = "https://github.com/ayoub-aknoun-edu/hospital_system_in_C/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = ayoub-aknoun-edu/hospital_system_in_C"/>
+<a href="https://github.com/ayoub-aknoun-edu/hospital_system_in_C/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ayoub-aknoun-edu/hospital_system_in_C" />
 </a>
-
